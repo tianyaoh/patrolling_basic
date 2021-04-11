@@ -1,3 +1,7 @@
+#Hello this is a test, this is a test
+
+#jenkins should read this////
+
 To run program, unzip all files and make sure roscore is running and gazebo is launched properly!
 
 run 2 nodes first: rosrun move scan_filter.py; rosrun quaternion_to_euler.py
