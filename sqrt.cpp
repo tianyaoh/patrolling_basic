@@ -2,7 +2,7 @@
 
 //yoyo
 
-//run tes
+//run tes, please
  
 // Get the Square root of a number. 
 double squareRoot(const double a) 
