@@ -1,7 +1,7 @@
 
 cmake_minimum_required(VERSION 2.6)
  
-# Locate GTest jasdfasdfasdadf3456789
+# Locate GTest joi76
 find_package(GTest REQUIRED)
 include_directories(${GTEST_INCLUDE_DIRS})
  
